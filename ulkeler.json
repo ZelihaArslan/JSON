@@ -1,0 +1,99 @@
+﻿{"ulkeler":[
+    {
+      "ulkeAdi":"Türkiye", 
+      "ulkeNufusu":"76.000.000", 
+      "ulkeAlan":"793.562.000 km", 
+      "ulkeId":"1", 
+      "bayrakId":"1" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"2", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"3", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"4", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"5", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"6", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"7", 
+      "bayrakId":"Jones" 
+     },
+     {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"8", 
+      "bayrakId":"Jones" 
+     },
+
+      {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"9", 
+      "bayrakId":"Jones" 
+     },
+    
+      {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"10", 
+      "bayrakId":"Jones" 
+     },
+       {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"11", 
+      "bayrakId":"Jones" 
+     },
+
+       {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"12", 
+      "bayrakId":"Jones" 
+     },
+       {
+      "ulkeAdi":"John", 
+      "ulkeNufusu":"Anna", 
+      "ulkeAlan":"Anna", 
+      "ulkeId":"13", 
+      "bayrakId":"Jones" 
+     },
+     
+
+]}
+
